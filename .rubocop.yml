@@ -17,5 +17,8 @@ Style/StringLiteralsInInterpolation:
 Layout/LineLength:
   Max: 120
 
+Lint/ScriptPermission:
+  Enabled: False
+
 Layout/EndOfLine:
   Enabled: False
